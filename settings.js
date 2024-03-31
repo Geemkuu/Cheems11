@@ -20,18 +20,18 @@ global.location = "Africa,Kenya,Nairobi" //ur location
 
 //new
 global.botname = '★彡ＮＯＮＳＥＮＳＥ 彡★' //ur bot name
-global.ownernumber = '254700569709' //ur owner number
+global.ownernumber = '254794286079' //ur owner number
 global.ownername =  '亗『ＧＥＥ』亗' //ur owner name
-global.websitex = "https://wa.me/254700569709?hey+gee+the+greatest"
+global.websitex = "https://wa.me/254794286079?hey+gee+the+greatest"
 global.wagc = "https://wa.me/c/254794286079?text=hey+gee+the+greatest"
 global.themeemoji = '☠️'
 global.wm = "🇬 🇪 🇪 ."
-global.botscript = 'https://github.com/Geemkuu/Cheems11' //script link
+global.botscript = 'https://github.com/Geemkuu/Gbot' //script link
 global.packname = "Sticker By"
 global.author = "꧁༒☬gee☬༒꧂\n\n+254794286079"
 global.creator = "254700569709@s.whatsapp.net"
 global.xprefix = ''
-global.premium = ["254700569709"] // Premium User
+global.premium = ["254794286079"] // Premium User
 global.hituet = 0
 
 //bot sett
@@ -48,9 +48,9 @@ global.groupevent = false //show update messages in group chat
 global.mess = {
 	limit: 'Your limit is up!',
 	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable',
-    done: 'Done✓',
-    error: 'Error!',
-    success: 'Here you go!'
+    done: 'your nonesence is done😒😒',
+    error: 'Error😂',
+    success: 'Here you go!🚮🚮'
 }
 //thumbnail
 global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
